@@ -40,7 +40,8 @@ Elencar **3 serviços AWS estratégicos** com foco na **redução de custos imed
 - ☁️ **Escalabilidade sob demanda**
 - 🔒 **Alta disponibilidade e segurança**
 - ⚡ **Automação de tarefas e ganho de produtividade**
-- **[Arquitetura do case](https://github.com/ItaloRochaj/case-aws-biopharma/blob/main/imagens/Captura%20de%20tela%20de%202025-04-11%2012-29-30.png)
+- ![Arquitetura do case](https://github.com/ItaloRochaj/case-aws-biopharma/raw/main/imagens/Captura%20de%20tela%20de%202025-04-11%2012-29-30.png)
+
 
 ---
 
