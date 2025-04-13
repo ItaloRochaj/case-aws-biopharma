@@ -45,6 +45,34 @@ Elencar **3 serviços AWS estratégicos** com foco na **redução de custos imed
 
 ---
 
+## 🛡️ Parte 2: Implementação de Medidas de Segurança
+
+### 🔐 Medida 1 – AWS Identity and Access Management (IAM)
+- **Descrição:** Definição de políticas de acesso com base em perfis específicos, ativação de autenticação multifatorial (MFA) e boas práticas de uso de contas. Garantia de que apenas usuários autorizados tenham acesso aos recursos da nuvem.
+
+### 📋 Medida 2 – AWS CloudTrail
+- **Descrição:** Ativação e configuração do AWS CloudTrail para auditoria e monitoramento de ações realizadas na conta AWS, com registros de todas as chamadas de API, acessos e alterações. Permite análise forense e maior transparência.
+
+### 🛡️ Medida 3 – AWS WAF + AWS Shield
+- **Descrição:** Proteção contra ataques de negação de serviço (DDoS) e filtragem de tráfego malicioso através do AWS Web Application Firewall e do AWS Shield, assegurando a integridade e a disponibilidade das aplicações.
+
+---
+
+## 🎯 Resultado Integrado
+A união entre os serviços gerenciados da AWS e as camadas de segurança permitiu à Pharmavita Biotech alcançar uma infraestrutura moderna, segura e eficiente. Os ganhos incluem:
+
+- 🔐 Conformidade com boas práticas e padrões de segurança da informação  
+- 💸 Economia significativa com serviços sob demanda e gerenciamento automático  
+- 🔄 Alta disponibilidade e tolerância a falhas  
+- 📊 Visibilidade e controle de ações com auditoria detalhada  
+
+---
+
+## 🗺️ Arquitetura da Solução
+
+![Diagrama da Arquitetura AWS com Medidas de Segurança Integradas](./A_digital_diagram_illustrates_an_AWS_architecture_.png)
+
+
 ## 🧠 Recomendações Finais
 
 - Continuar o uso das ferramentas implementadas
