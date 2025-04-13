@@ -70,7 +70,7 @@ A união entre os serviços gerenciados da AWS e as camadas de segurança permit
 
 ## 🗺️ Arquitetura da Solução
 
-![Diagrama da Arquitetura AWS com Medidas de Segurança Integradas](./A_digital_diagram_illustrates_an_AWS_architecture_.png)
+![Diagrama da Arquitetura AWS com Medidas de Segurança Integradas](https://github.com/ItaloRochaj/case-aws-biopharma/blob/main/imagens/Untitled-2025-04-11-11235.png)
 
 
 ## 🧠 Recomendações Finais
